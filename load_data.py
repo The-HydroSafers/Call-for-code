@@ -4,7 +4,7 @@ import time
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-%matplotlib inline
+# %matplotlib inline
 import seaborn as sns
 from tqdm import tqdm
 from PIL import Image
@@ -15,6 +15,9 @@ import torch.utils.data as data
 import torch
 import torch.nn as nn
 
+
+#global
+data_dir = "/media/rohi/Holmes/Call-for-code/turbid"
 
 
 # Helper function to load up the dataset
@@ -48,5 +51,6 @@ def create_dataset(dir):
 
 
 
-if name__=="__main__":
+if __name__=="__main__":
+    # data_dir = "/media/rohi/Holmes/Call-for-code/turbid"
     imgFilesList, class_labels, labels,count_labels, total_imgs, img_width, img_height, nClasses = create_dataset(data_dir)
