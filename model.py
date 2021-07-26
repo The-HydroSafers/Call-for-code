@@ -952,7 +952,7 @@ class EfficientNet(nn.Module):
             out_channels = round_filters(32, self._global_params)
             self._conv_stem = Conv2d(in_channels, out_channels, kernel_size=3, stride=2, bias=False)
             
-  model=EfficientNet.from_pretrained("efficientnet-b0", advprop=True)
+model=EfficientNet.from_pretrained("efficientnet-b0", advprop=True)
 dev = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 #dev=torch.device("cuda") 
 model.to(dev)
