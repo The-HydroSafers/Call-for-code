@@ -37,7 +37,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 ## Authors
 
 <a href="https://github.com/The-HydroSafers/Call-for-code/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+ 
 </a>
 
 - 
