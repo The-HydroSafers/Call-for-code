@@ -35,7 +35,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) -Ibm Watson Cloud pack for Data
 - [Flask](https://flask.palletsprojects.com) -Flask Web Framework
 
--[Flutter](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjjnoGEwIbyAhU7gFAGHZZHBmsYABAAGgJkZw&ohost=www.google.com&cid=CAESQOD2Fs0WiKth028I3aSJx96YUiBvIgHbsA4n5HUzynI66CWCP5IeSMrQaVbe7JqkR2R81gdH2-9JMQPGy54SWo0&sig=AOD64_1SWvdumWqFnyh3x5zGUv6Wqce59A&q&adurl&ved=2ahUKEwiTyviDwIbyAhXxsHEKHUi4DZ0Q0Qx6BAgCEAE) - Flutter for App Development
+- [Flutter](https://www.flutter.com/) -Flutter for App Development
 
 
 # Source Code In Ibm Watson Cloud Pack for Data
