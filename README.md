@@ -31,7 +31,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 
 # Source Code In Ibm Watson Cloud Pack for Data
-[Souce Code](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a6f195-79e3-47b3-ac01-53cfb12b5126/view?projectid=7119d3cc-4cea-4fe7-b2bb-7a5601d7bccc&context=cpdaas).
+[Source Code](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a6f195-79e3-47b3-ac01-53cfb12b5126/view?projectid=7119d3cc-4cea-4fe7-b2bb-7a5601d7bccc&context=cpdaas).
 
 
 
@@ -51,6 +51,8 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 <<a href="https://github.com/The-HydroSafers/Call-for-code/graphs/contributors">
   <img src="https://avatars.githubusercontent.com/u/55980747?v=4" />
+  <img src="https://avatars.githubusercontent.com/u/60429026?v=4" />
+  <img src="https://avatars.githubusercontent.com/u/41194018?v=4" />
 
 </a>
 
