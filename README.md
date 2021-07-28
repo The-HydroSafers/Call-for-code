@@ -21,8 +21,9 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 
 #TOOLS USED:
-1.IBM WATSON STUDIO Training our model(https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a6f195-79e3-47b3-ac01-53cfb12b5126/view?projectid=7119d3cc-4cea-4fe7-b2bb-7a5601d7bccc&context=cpdaas).
-2.Google Colab
+1.IBM WATSON STUDIO and Google Colab
+Training our model(https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a6f195-79e3-47b3-ac01-53cfb12b5126/view?projectid=7119d3cc-4cea-4fe7-b2bb-7a5601d7bccc&context=cpdaas).
+
 
 
 
@@ -39,7 +40,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Authors
 
-<a href="https://github.com/The-HydroSafers/Call-for-code/contributors">
+<a href="https://github.com/WanjohiChristopher">
  
 </a>
 
