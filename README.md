@@ -4,7 +4,8 @@
 There has been an increase in deaths  every year due to unsafe water consumption. Globally, in efforts to address the clean water and sanitation problem, various governments and NGOs have initiated various strategies to curb the deaths that result from consumption of unsafe water. According to the World Health Organization (WHO) contaminated drinking-water is estimated to cause 502000 diarrhoeal deaths each year (Water, n.d.-b). With the rapid growth in population and increased human activities on land globally, which leads to water pollution,. Studies have shown that by 2025, half of the world's population will not have clean water and have poor sanitation. To bridge this gap, we propose a ‘Hydrosafe’ project to solve the issue of microorganisms and dirt in water by identifying the specific contaminant and giving specific solutions to the problem identified. This may not eradicate the problem fully but it will help reduce consumption of unsafe water and hence reduce death rates too.
 
 
-# How can technology help?
+# How can technology helps in solving this problem?
+The population
 
 ## The Idea
 We propose a ‘Hydrosafe’ project to solve the issue of microorganisms and dirt in water by identifying the specific contaminant and giving specific solutions to the problem identified. This may not eradicate the problem fully but it will help reduce consumption of unsafe water and hence reduce death rates too.
@@ -61,11 +62,10 @@ To develop an AI-based Application that will be used to detect impurities in wat
 ## Authors
 
 <a href="https://github.com/The-HydroSafers/Call-for-code/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/55980747?v=4" width=100  style="border-radius:50%"/>
+  <img src="https://avatars.githubusercontent.com/u/55980747?v=4" width=100  style="border-radius:50px"/>
   <img src="https://avatars.githubusercontent.com/u/60429026?v=4" width=100 style="border-radius:50%"/>
   <img src="https://avatars.githubusercontent.com/u/41194018?v=4" width=100 style="border-radius:50%"/>
  <img src="https://avatars.githubusercontent.com/u/87578910?v=4" width=100 style="border-radius:50%"/>
   <img src="https://avatars.githubusercontent.com/u/87808828?v=4" width=100 style="border-radius:50%"/>
 </a>
-
 
