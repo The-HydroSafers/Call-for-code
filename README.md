@@ -2,6 +2,7 @@
 
 # What's the problem?
 
+# How can technology help?
 
 ## The Idea
 We propose a ‘Hydrosafe’ project to solve the issue of microorganisms and dirt in water by identifying the specific contaminant and giving specific solutions to the problem identified. This may not eradicate the problem fully but it will help reduce consumption of unsafe water and hence reduce death rates too.
