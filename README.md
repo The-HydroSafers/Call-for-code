@@ -16,3 +16,28 @@ To develop an AI-based Application that will be used to detect impurities in wat
 4. To build a real world mobile-based application that predicts the level of bacteria and water contamination. 
 
 ## Project Architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Authors
+
+<a href="https://github.com/The-HydroSafers/Call-for-code/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+</a>
+
+- 
