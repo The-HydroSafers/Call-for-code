@@ -18,6 +18,10 @@ To develop an AI-based Application that will be used to detect impurities in wat
 3. Analyze the level of contaminants in water  based on exploratory methods.
 4. To build a real world mobile-based application that predicts the level of bacteria and water contamination. 
 
+## Demo video
+
+
+
 ## Project Architecture
 
 
