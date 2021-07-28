@@ -23,6 +23,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Demo video
 
+![ibm](https://user-images.githubusercontent.com/55980747/127390084-3e92e0ca-f270-4edc-838c-bcd88e4ac96a.jpeg)
 
 
 ## Project Architecture
