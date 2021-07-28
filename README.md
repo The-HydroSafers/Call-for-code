@@ -24,12 +24,14 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Project Architecture
 
+## Built with
+
+- [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - Ibm Watson Cloud pack for Data
+- 
 
 
-
-#TOOLS USED:
-1.IBM WATSON STUDIO and Google Colab
-Training our model(https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a6f195-79e3-47b3-ac01-53cfb12b5126/view?projectid=7119d3cc-4cea-4fe7-b2bb-7a5601d7bccc&context=cpdaas).
+# Source Code In Ibm Watson Cloud Pack for Data
+[Souce Code](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a6f195-79e3-47b3-ac01-53cfb12b5126/view?projectid=7119d3cc-4cea-4fe7-b2bb-7a5601d7bccc&context=cpdaas).
 
 
 
