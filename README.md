@@ -40,8 +40,8 @@ Training our model(https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/46a
 
 ## Authors
 
-<a href="https://github.com/WanjohiChristopher">
- 
+<<a href="https://github.com/The-HydroSafers/Call-for-code/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=HydroSafers/Call-for-Code" />
 </a>
 
 - 
