@@ -28,7 +28,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Project Architecture
 
-<img src="https://user-images.githubusercontent.com/41194018/127502511-d4f8ee6d-2e7f-405b-94d4-4d186833d66f.png" width=600 style="border-radius:50%" />
+<img src="https://user-images.githubusercontent.com/41194018/127502511-d4f8ee6d-2e7f-405b-94d4-4d186833d66f.png" width=850 style="border-radius:50%" />
 
 ## Getting started
  ### This is the way to execute the code
