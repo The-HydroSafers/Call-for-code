@@ -1,6 +1,3 @@
-![Hydrosafers](https://user-images.githubusercontent.com/41194018/127502511-d4f8ee6d-2e7f-405b-94d4-4d186833d66f.png)
-![Hydrosafers](https://user-images.githubusercontent.com/41194018/127502567-e5ced0c8-8df2-438b-8c63-63f47260a43d.png)
-![Hydrosafers](https://user-images.githubusercontent.com/41194018/127502681-b0f963f9-4660-475b-9ea3-a2c5097f0afb.png)
 #                                                                HydroSafe Project 
 
 # The Problem
@@ -31,7 +28,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Project Architecture
 
-<img src="https://user-images.githubusercontent.com/41194018/127479732-f23b2b60-ca08-4eff-bda2-b59bc174817d.png" width=600 style="border-radius:50%" />
+<img src="https://user-images.githubusercontent.com/41194018/127502511-d4f8ee6d-2e7f-405b-94d4-4d186833d66f.png" width=600 style="border-radius:50%" />
 
 ## Getting started
  ### This is the way to execute the code
