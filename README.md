@@ -27,6 +27,8 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 
 ## Project Architecture
+![Hydrosafers (1)](https://user-images.githubusercontent.com/41194018/127479732-f23b2b60-ca08-4eff-bda2-b59bc174817d.png)
+
 
 ## Getting started
  ### This is the way to execute the code
