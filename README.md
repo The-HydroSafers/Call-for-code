@@ -153,7 +153,8 @@ python index.py
 
 
 
-
+## Future of our Project
+If our solution will be deployed it will help alot of people in knowing the water to drink and hence reduce  diseases which are water borne.This might help reduce the fatalities caused by drinking unsafe water.
 
 
 
