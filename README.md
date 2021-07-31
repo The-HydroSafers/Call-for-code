@@ -49,7 +49,13 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 <img src="https://user-images.githubusercontent.com/41194018/127502511-d4f8ee6d-2e7f-405b-94d4-4d186833d66f.png" width=850 style="border-radius:50%" />
 
+##### Data
+We collected prinary kenyan data named kenyan_data for our model and also Secondary Data Named Turbid in call-for-code repository
+
+
 ## Long Description 
+
+
 [link](https://docs.google.com/document/d/1Oq-cgygnQshRx_rxzZh7A2tjQ6XSDTwbWCza21_zOr0/edit?usp=sharing)
 ## Getting started
 ### This is the way to execute the code
