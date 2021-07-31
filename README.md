@@ -1,5 +1,24 @@
 #                                                                HydroSafe Project 
 ------------------
+## Contents
+
+- [Hydrosafe](#Hydrosafe)
+  - [Contents](#contents)
+  - [Short description](#short-description)
+    - [The Problem](# TheProblem)
+    - [How can technology help?](## How can technology helps in solving this problem?)
+    - [The idea](##The-Idea)
+    - [General Objective](## General Objective)
+    - [Specific Objectives](## Specific Objectives)
+  - [Demo video](## Demo video)
+  - [The Project Architecture](## Project Architecture)
+  - [Long description](#long-description)
+  
+  - [Getting started](## Getting started)
+  - [Live demo](#Live Demo)
+  - [Built with](#built-with)
+  
+  - [Authors](#authors)
 # The Problem
 There has been an increase in deaths  every year due to unsafe water consumption. Globally, in efforts to address the clean water and sanitation problem, various governments and NGOs have initiated various strategies to curb the deaths that result from consumption of unsafe water. According to the World Health Organization (WHO) contaminated drinking-water is estimated to cause 502000 diarrhoeal deaths each year (Water, n.d.-b). With the rapid growth in population and increased human activities on land globally, which leads to water pollution,. Studies have shown that by 2025, half of the world's population will not have clean water and have poor sanitation. To bridge this gap, we propose a ‘Hydrosafe’ project to solve the issue of microorganisms and dirt in water by identifying the specific contaminant and giving specific solutions to the problem identified. This may not eradicate the problem fully but it will help reduce consumption of unsafe water and hence reduce death rates too.
 
@@ -75,6 +94,7 @@ Download the data from the repository and save it to your google drive.
 
 Go to this [link](https://colab.research.google.com/drive/1WUw4zE4iixV_P_BDIK9poit6sD3nKTts?usp=sharing) and run the code.
 
+# Live Demo
 
 
 ## Built with
