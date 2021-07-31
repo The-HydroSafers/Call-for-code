@@ -6,11 +6,11 @@
   - [Contents](#contents)
   - [Short description](#short-description)
     - [The Problem](#The-Problem)
-    - [How can technology help?](##How-can-technology-helps-in-solving-this-problem?)
+    - [How can technology help?](#How-can-technology-helps-in-solving-this-problem?)
     - [The idea](##The-Idea)
     - [General Objective](##General-Objective)
     - [Specific Objectives](##Specific-Objectives)
-  - [Demo video](## Demo video)
+  - [Demo video](##Demo-video)
   - [The Project Architecture](##Project-Architecture)
   - [Long description](#long-description)
   
