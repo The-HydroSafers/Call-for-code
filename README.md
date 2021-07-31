@@ -123,8 +123,25 @@ we built our web application using Hyper Text Markup Language (HTML 5) , Cascadi
 #### Backened 
  We used Python language where made use of Python Framework Flask.So far we are only classifying if the water is clean or not.
  we highly recommend use of high quality image to test the model.But in future we will make use lenses in our Flutter Application.
-Here is the link [Lin to preview the Website](
+Here is the link [Link to preview the Website](https://the-hydrosafers.github.io/Web-Application/templates/index.html)
  
+## Running the web application
+- Clone the project i.e. 
+```
+git clone https://github.com/The-HydroSafers/Web-Application
+```
+- Navigate to the directory "Web-Application".
+- Run the following commands in a systematic manner.
+- Step 1
+```
+python model.py
+ to generate model to be used in  the appliication
+ ```
+- Step 2
+```
+python index.py
+ This is used to run our application
+ ```
 
 
 
