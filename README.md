@@ -114,10 +114,17 @@ Go to this [link](https://colab.research.google.com/drive/1WUw4zE4iixV_P_BDIK9po
 
 
 
+## Flutter Appication 
+About Flutter application is still underdevelopment ,we will be updating our repository to cater the missing flutter code.We decided to use  Web Application first to depoly our model.
 
-
-
-
+## Web Application
+ #### Frontend
+we built our web application using Hyper Text Markup Language (HTML 5) , Cascading Style sheet (CSS) ,Javascript and Bootstrap FrameWork.
+#### Backened 
+ We used Python language where made use of Python Framework Flask.So far we are only classifying if the water is clean or not.
+ we highly recommend use of high quality image to test the model.But in future we will make use lenses in our Flutter Application.
+Here is the link [Lin to preview the Website](
+ 
 
 
 
