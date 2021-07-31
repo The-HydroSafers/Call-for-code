@@ -15,7 +15,7 @@
   - [Long description](#long-description)
   
   - [Getting started](##Getting-started)
-  - [Live demo](#Live Demo)
+  - [Live demo](#Live-Demo)
   - [Built with](#built-with)
   
   - [Authors](#authors)
