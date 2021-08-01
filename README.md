@@ -42,7 +42,7 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Demo video
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/TcLq8W20Aho)
+[![Watch the video]](https://youtu.be/TcLq8W20Aho)
 <img src="https://user-images.githubusercontent.com/55980747/127390084-3e92e0ca-f270-4edc-838c-bcd88e4ac96a.jpeg" width=300 style="border-radius:50%" />
 
 
