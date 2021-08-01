@@ -42,8 +42,9 @@ To develop an AI-based Application that will be used to detect impurities in wat
 
 ## Demo video
 
-[![Watch the video](https://user-images.githubusercontent.com/55980747/127390084-3e92e0ca-f270-4edc-838c-bcd88e4ac96a.jpeg)](https://youtu.be/TcLq8W20Aho)
+[![Watch the video](https://user-images.githubusercontent.com/55980747/127764803-fc543579-3b84-4d3d-a0de-422205f2e5ae.png)](https://youtu.be/TcLq8W20Aho)
 <!-------------<img src="https://user-images.githubusercontent.com/55980747/127390084-3e92e0ca-f270-4edc-838c-bcd88e4ac96a.jpeg" width=300 style="border-radius:50%" /> ---------------->
+
 
 
 ## Project Architecture
